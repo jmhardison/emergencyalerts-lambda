@@ -1,0 +1,19 @@
+{
+  "name": "emergencyalerts-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Hardison <jmh@jonathanhardison.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.0",
+    "cheerio": "^1.0.0-rc.2",
+    "net": "^1.0.2",
+    "q": "^1.5.1",
+    "raven": "^2.3.0",
+    "request": "^2.83.0"
+  }
+}
